@@ -1,0 +1,5 @@
+# Ultralytics YOLOv8 supports Python versions >=3.7 and <=3.10.
+ultralytics==8.3.85
+opencv-python==4.11.0.86
+numpy==1.26.4
+
